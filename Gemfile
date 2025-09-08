@@ -54,7 +54,7 @@ end
 
 group :test do
   # 테스트 전용 라이브러리들
-  gem 'factory_bot_rails', '~> 6.4'
+  gem 'factory_bot_rails', '~> 6.5'
   gem 'shoulda-matchers', '~> 6.0'
   gem 'faker', '~> 3.5'
   gem 'database_cleaner-active_record', '~> 2.2'
